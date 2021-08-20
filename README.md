@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on few front end projects using **React, AWS and tailwind CSS**.
+- 🌱 I’m currently learning **flutter**. I found flutter has a lot of potential to be a conqueror in future.  
+- 👯 I’m looking to collaborate on any interesting web/mobile projects.
+- 📫 How to reach me: [Personal Website](https://jangya.github.io), [LinkedIn](https://www.linkedin.com/in/jangya/) 
+- 😄 How to pronounce my name:  It's a sanskrit word should be pronounced as JAGYÁN. Please check my linkedin profile for audio.
+- ⚡ Fun fact: Apart from coding I enjoy bike riding and gaming.
+
 <!--
 **jangya/jangya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
